@@ -1,3 +1,4 @@
 colour-blue
 place-karnataka
 country-india
+coverage-good
