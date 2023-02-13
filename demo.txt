@@ -1,5 +1,6 @@
 colour-blue
 place-karnataka
+<<<<<<< HEAD
 country-india
 coverage-good
 number-12
