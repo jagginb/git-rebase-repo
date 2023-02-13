@@ -3,3 +3,5 @@ place-karnataka
 country-india
 coverage-good
 number-12
+kms-250
+
