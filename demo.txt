@@ -9,3 +9,4 @@ animal- dog`
 
 airshow venue -Bengaluru
 date-13/02/2023
+timings- 9:30am to 11:30am
